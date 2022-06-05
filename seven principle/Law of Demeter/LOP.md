@@ -1,0 +1,1 @@
+迪米特法则：`Law of Demeter`，简称为 `LoD`，又叫作最少知道原则（`Least Knowledge Principle`，`LKP`)。是指一个对象对其它对象应该保持最少的了解，尽量降低类与类之间的耦合。
